@@ -1,0 +1,129 @@
+{
+    "receipes":{
+    "kung_pao_chicken": {
+        "id": "1",
+        "title": "Kung Pao Chicken",
+        "Description": "A classic Sichuan dish featuring tender chicken, peanuts, and vegetables in a spicy and savory sauce.",
+        "image": "Images/KungPaoChicken.jpg",
+        "ingredients": ["Chicken", "Peanuts", "Bell peppers", "Dried red chilies", "Soy sauce", "Vinegar", "Sichuan peppercorns"],
+        "steps": {
+            "step1": "Dice chicken and marinate in soy sauce.",
+            "step2": "Stir-fry chicken with peanuts, bell peppers, and dried red chilies.",
+            "step3": "Add a sauce made of soy sauce, vinegar, and Sichuan peppercorns.",
+            "step4": "Cook until chicken is cooked through and the sauce thickens. Serve hot."
+        }
+    },
+    "dim_sum": {
+        "id": "2",
+        "title": "Dim Sum",
+        "Description": "A variety of bite-sized Chinese dishes, including dumplings, buns, and rolls, often served with tea.",
+        "image": "Images/DimSum.jpg",
+        "ingredients": ["Dumplings", "Steamed buns", "Spring rolls", "Shrimp balls", "Siu mai", "Tea"],
+        "steps": {
+            "step1": "Steam dumplings and buns.",
+            "step2": "Fry spring rolls and shrimp balls until golden brown.",
+            "step3": "Serve with siu mai and a pot of tea."
+        }
+    },
+    "mapo_tofu": {
+        "id": "3",
+        "title": "Mapo Tofu",
+        "Description": "A spicy Sichuan dish made with tofu and minced meat in a flavorful sauce.",
+        "image": "Images/MapoTofu.jpg",
+        "ingredients": ["Tofu", "Ground meat (usually pork)", "Sichuan bean paste", "Soy sauce", "Sichuan peppercorns", "Green onions"],
+        "steps": {
+            "step1": "Cube tofu and set aside.",
+            "step2": "Cook ground meat with Sichuan bean paste and soy sauce.",
+            "step3": "Add tofu and simmer until heated through.",
+            "step4": "Garnish with Sichuan peppercorns and green onions. Serve with rice."
+        }
+    },
+    "sweet_and_sour_chicken": {
+        "id": "4",
+        "title": "Sweet and Sour Chicken",
+        "Description": "Crispy chicken pieces coated in a tangy sweet and sour sauce with bell peppers and pineapple.",
+        "image": "Images/SweetandSourChicken.jpg",
+        "ingredients": ["Chicken", "Bell peppers", "Pineapple chunks", "Cornstarch", "Vinegar", "Ketchup", "Sugar"],
+        "steps": {
+            "step1": "Coat chicken pieces in cornstarch and deep-fry until crispy.",
+            "step2": "Stir-fry bell peppers and pineapple chunks.",
+            "step3": "Make a sweet and sour sauce with vinegar, ketchup, and sugar.",
+            "step4": "Combine everything and simmer until the sauce thickens. Serve hot."
+        }
+    },
+    "fried_rice": {
+        "id": "5",
+        "title": "Fried Rice",
+        "Description": "Cooked rice stir-fried with vegetables, eggs, and a choice of meat or tofu, seasoned with soy sauce.",
+        "image": "Images/FriedRice.jpg",
+        "ingredients": ["Cooked rice", "Eggs", "Carrots", "Peas", "Soy sauce", "Choice of meat or tofu"],
+        "steps": {
+            "step1": "Scramble eggs and set aside.",
+            "step2": "Stir-fry vegetables and meat/tofu.",
+            "step3": "Add cooked rice and soy sauce.",
+            "step4": "Mix in scrambled eggs and stir-fry until heated through."
+        }
+    },
+    "peking_duck": {
+        "id": "6",
+        "title": "Peking Duck",
+        "Description": "A famous Beijing dish featuring crispy duck skin, served with thin pancakes, hoisin sauce, and sliced scallions.",
+        "image": "Images/PekingDuck.jpg",
+        "ingredients": ["Duck", "Pancakes", "Hoisin sauce", "Scallions"],
+        "steps": {
+            "step1": "Roast duck until skin is crispy.",
+            "step2": "Serve with thin pancakes, hoisin sauce, and sliced scallions.",
+            "step3": "Wrap the duck and condiments in the pancakes and enjoy."
+        }
+    },
+    "hot_and_sour_soup": {
+        "id": "7",
+        "title": "Hot and Sour Soup",
+        "Description": "A spicy and tangy Chinese soup made with tofu, mushrooms, and a flavorful broth.",
+        "image": "Images/HotandSourSoup.jpg",
+        "ingredients": ["Tofu", "Mushrooms", "Eggs", "Vinegar", "Soy sauce", "Chili sauce"],
+        "steps": {
+            "step1": "Simmer tofu and mushrooms in a flavorful broth.",
+            "step2": "Add beaten eggs and stir to create ribbons.",
+            "step3": "Season with vinegar, soy sauce, and chili sauce. Serve hot."
+        }
+    },
+    "mongolian_beef": {
+        "id": "8",
+        "title": "Mongolian Beef",
+        "Description": "Sliced beef stir-fried with scallions and a sweet and savory sauce, served over steamed rice.",
+        "image": "Images/MongolianBeef.jpg",
+        "ingredients": ["Beef", "Scallions", "Soy sauce", "Brown sugar", "Garlic", "Ginger"],
+        "steps": {
+            "step1": "Slice beef thinly and marinate in soy sauce and brown sugar.",
+            "step2": "Stir-fry beef with scallions, garlic, and ginger.",
+            "step3": "Serve over steamed rice. Garnish with sesame seeds."
+        }
+    },
+    "spring_rolls": {
+        "id": "9",
+        "title": "Spring Rolls",
+        "Description": "Crispy rolls filled with a mixture of vegetables, meat, or shrimp, often served with a dipping sauce.",
+        "image": "Images/SpringRolls.jpg",
+        "ingredients": ["Spring roll wrappers", "Cabbage", "Carrots", "Bean sprouts", "Choice of filling", "Dipping sauce"],
+        "steps": {
+            "step1": "Prepare the filling by stir-frying vegetables and meat or shrimp.",
+            "step2": "Wrap the filling in spring roll wrappers and deep-fry until golden brown.",
+            "step3": "Serve with a dipping sauce of your choice."
+        }
+    },
+    "general_tsos_chicken": {
+        "id": "10",
+        "title": "General Tso's Chicken",
+        "Description": "Crispy chicken pieces coated in a sweet and spicy sauce with broccoli florets.",
+        "image": "Images/GeneralTso'sChicken.jpg",
+        "ingredients": ["Chicken", "Broccoli", "Soy sauce", "Sugar", "Vinegar", "Chili paste"],
+        "steps": {
+            "step1": "Coat chicken pieces in cornstarch and deep-fry until crispy.",
+            "step2": "Stir-fry broccoli florets and make a sweet and spicy sauce with soy sauce, sugar, vinegar, and chili paste.",
+            "step3": "Combine everything and cook until the sauce thickens. Serve hot."
+             }
+         }
+    }
+
+}
